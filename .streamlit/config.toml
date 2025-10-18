@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#fbbf24"                # Dourado (botões e sliders)
+backgroundColor = "#0f172a"             # Azul-marinho profundo
+secondaryBackgroundColor = "#1e293b"    # Azul-acinzentado (containers)
+textColor = "#e2e8f0"                   # Cinza-claro (texto padrão)
+font = "sans serif"
